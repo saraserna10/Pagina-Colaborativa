@@ -1,0 +1,44 @@
+header{
+	background: #edc0c2;
+	font-family: Roboto;
+	font-kerning: 100px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.logo1{
+	padding-top: 10px;
+}
+
+.banner{
+	background: #f9cdce;
+	padding-top: 75px;
+	padding-bottom: 75px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.ver-mas{
+	position: relative;
+	left: 200px;
+	bottom: 100px;
+}
+
+.servicios .servicio{
+	background: #a9215f;
+	font-family: Roboto;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+footer{
+	background: #84194f;
+	font-family: Roboto;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
